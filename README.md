@@ -1,4 +1,5 @@
 每个文件夹里一般会有代码文件，最优解，算法步骤。每个文件夹对应下面的一篇文献  
 [1]刘树赵,邹德旋,罗鸿赟,等.改进遗传算法求解旅行商问题[J].计算机时代,2023,(05):66-71.DOI:10.16644/j.cnki.cn33-1094/tp.2023.05.014.  
-[2]Yu Y, Chen Y, Li T. A new design of genetic algorithm for solving TSP[C]//2011 Fourth International Joint Conference on Computational Sciences and Optimization. IEEE, 2011: 309-313.
+[2]Yu Y, Chen Y, Li T. A new design of genetic algorithm for solving TSP[C]//2011 Fourth International Joint Conference on Computational Sciences and Optimization. IEEE, 2011: 309-313.  
+[3]Nagata Y, Kobayashi S. A powerful genetic algorithm using edge assembly crossover for the traveling salesman problem[J]. INFORMS Journal on Computing, 2013, 25(2): 346-363.
 
